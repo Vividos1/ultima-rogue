@@ -1,0 +1,9 @@
+# Original Ultima Online client artwork — local only
+/assets/*
+!/assets/.gitkeep
+
+# Local / generated files
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
